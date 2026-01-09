@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RibSoup/count.svg" />
+  公众号：<br>
+  <img src="https://github.com/BenightedJester/BenightedJester.github.io/raw/master/img/qrcode_for_winxin_official.jpg" />
 </p>
