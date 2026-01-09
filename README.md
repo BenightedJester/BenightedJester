@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  公众号：<br>
-  <img src="https://github.com/BenightedJester/BenightedJester.github.io/raw/master/img/qrcode_for_winxin_official.jpg" />
-</p>
+
+* [掘金](https://juejin.cn/user/3021884557633336)
+* [博客园](https://www.cnblogs.com/hmswt)
+* [gitee](https://gitee.com/BenightedJester)
+* [github](https://github.com/BenightedJester)
+* 公众号：  
+![公众号图片没了？喊我更新一下，谢谢！](https://github.com/BenightedJester/BenightedJester.github.io/raw/master/img/qrcode_for_winxin_official.jpg)
+
